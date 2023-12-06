@@ -1,0 +1,67 @@
+.input {
+    background-color: rgb(138, 255, 127);
+    border-radius: 10px;
+    height: 20px;
+    margin: 10px;
+    padding: 5px 10px;
+    border : 0;
+}
+
+.add {
+    background-color: blue;
+    color: #fff;
+    border-radius: 10px;
+    height: 30px;
+    border: 0;
+}
+
+.edit{
+    background-color: blueviolet;
+    color: #fff;
+    border: 0;
+    border-radius: 8px;
+    padding: 6px;
+    margin-right : 8px;
+    float : right;
+}
+
+.delete {
+    background-color: red;
+    float : right;
+    border-radius: 8px ;
+    padding: 6px;
+    border: 0;
+}
+
+
+
+.line {
+    width: 700px;
+    height: 30px;
+    margin: 10px  auto;
+    list-style: none;
+    background-color:rgb(172, 139, 139);
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.title {
+    background-color: rgb(138, 255, 127);
+    padding : 0 20px 5px 20px;
+    border-radius: 10px;
+}
+
+.updateText{
+    background-color: aliceblue;
+    border-radius: 5px;
+    border: 0;
+    padding: 3px 10px;
+}
+
+.update{
+    color: #fff;
+    background-color: blue;
+    border: 0;
+    border-radius: 8px;
+    padding: 5px ;
+}
